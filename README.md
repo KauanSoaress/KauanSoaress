@@ -5,8 +5,8 @@ Welcome to my github Profile 😃.
 - 👨🏻‍💻 I'm a Computer Technician.
 - 🌱 I'm currently learning C.
 - 🌎 I'm living in Fortaleza-CE.
-- ⚡ I have experience with: <br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5" height="5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5" height="5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5" height="5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5" height="5"/>
+- ⚡ I have experience with: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10" height="10"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="10" height="10"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="10" height="10"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10" height="10"/>
 
 - 📫 You can reach me in: <br />
 <a href="https://www.linkedin.com/in/kauan-soares-9a6640205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
