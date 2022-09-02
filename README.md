@@ -4,11 +4,13 @@ Welcome to my github Profile 😃.
 - 💻 I'm a Computer Science student at UFC - Federal University of Ceara.
 - 👨🏻‍💻 I'm a Computer Technician.
 - 🌱 I'm currently learning C.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 - 🌎 I'm living in Fortaleza-CE.
 - ⚡ I have experience with HTML, CSS, JavaScript and Python.
 - 📫 How to reach me: https://www.linkedin.com/in/kauan-soares-9a6640205/
 
-<img height="130em" src="https://camo.githubusercontent.com/f076946a17eaba2af02cc91b50cc3eff023a338d11c6c53e00ad8f900b18c09f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c656f6e616e6d61723838362673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KauanSoaress&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+
 
 <!--
 **KauanSoaress/KauanSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
