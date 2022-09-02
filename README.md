@@ -8,8 +8,7 @@ Welcome to my github Profile 😃.
           
 - 🌎 I'm living in Fortaleza-CE.
 - ⚡ I have experience with HTML, CSS, JavaScript and Python.
-- 📫 You can reach me in:
-- <\n>
+- 📫 You can reach me in: <br />
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/kauan-soares-9a6640205/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
