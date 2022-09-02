@@ -3,7 +3,7 @@ Welcome to my github Profile 😃.
 
 - 💻 I'm a Computer Science student at UFC - Federal University of Ceara.
 - 👨🏻‍💻 I'm a Computer Technician.
-- 🌱 I'm currently learning C.
+### - 🌱 I'm currently learning C.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" border-radius="5px" />
           
 - 🌎 I'm living in Fortaleza-CE.
