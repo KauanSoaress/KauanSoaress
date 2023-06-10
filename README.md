@@ -27,5 +27,5 @@ Welcome to my github Profile 😃.
   
   
 <div>
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/KauanSoaress/KauanSoaress/blob/output/github-contribution-grid-snake.svg)
 </div>
