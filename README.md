@@ -5,7 +5,7 @@ Welcome to my github Profile 😃.
 - 👨🏻‍💻 I'm a Computer Technician.
 - 🌎 I'm living in Fortaleza-CE.
 - 🌱 I'm currently learning: <p>
-<br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="30" height="30"/>
 - ⚡ I have experience with: <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
