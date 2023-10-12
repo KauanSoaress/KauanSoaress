@@ -12,11 +12,11 @@ Welcome to my github Profile 😃.
 
 - 📫 You can reach me in: <p>
 <a href="https://www.linkedin.com/in/kauan-soares-9a6640205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-<div>
-<a href="https://github.com/KauanSoaress">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSoaress&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanSoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+# About my github stats
+<p align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=KauanSoaress&theme=github_dark&include_all_commits=true&count_private=true">   
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSoaress&theme=github_dark&layout=compact&langs_count=10">
+<p/>
 
   ![snake gif](https://github.com/KauanSoaress/KauanSoaress/blob/output/github-contribution-grid-snake.svg)
