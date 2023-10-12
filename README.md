@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Kauan Soares.
+# Hi there 👋. I'm Kauan Soares.
 Welcome to my github Profile 😃. 
 
 - 💻 I'm a Computer Science student at UFC - Federal University of Ceara.
