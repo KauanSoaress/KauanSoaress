@@ -13,7 +13,7 @@ Welcome to my github Profile 😃.
 - 📫 You can reach me in: <p>
 <a href="https://www.linkedin.com/in/kauan-soares-9a6640205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-# About my github stats
+# My GitHub stats
 <p align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KauanSoaress&theme=github_dark&include_all_commits=true&count_private=true">   
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSoaress&theme=github_dark&layout=compact&langs_count=10">
