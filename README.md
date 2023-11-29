@@ -12,8 +12,6 @@ Welcome to my github Profile 😃.
 
 # My GitHub stats
 <p align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanSoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=KauanSoaress&theme=github_dark&include_all_commits=true&count_private=true">   
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSoaress&theme=github_dark&layout=compact&langs_count=10">
 <p/>
 
