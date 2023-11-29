@@ -1,7 +1,7 @@
 # Hi there 👋. I'm Kauan Soares.
 Welcome to my github Profile 😃. 
 
-- 💻 I'm a Computer Science student at UFC - Federal University of Ceara.
+- 💻 I'm a Web Developer focused in Front-End development.
 - 👨🏻‍💻 I'm a Computer Technician.
 - 🌎 I'm living in Fortaleza-CE.
 - ⚡ I have experience with: <p>
