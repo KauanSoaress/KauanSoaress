@@ -12,8 +12,8 @@ Welcome to my github Profile 😃.
 
 # My GitHub stats
 <p align="center">
-  ![KauanSoaress's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSoaress&show_icons=true&theme=transparent)
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSoaress&theme=github_dark&layout=compact&langs_count=10">
+  ![KauanSoaress GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSoaress&show_icons=true&theme=dracula&count_private=true)
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSoaress&theme=github_dark&layout=compact&langs_count=10">
 <p/>
 
   ![snake gif](https://github.com/KauanSoaress/KauanSoaress/blob/output/github-contribution-grid-snake.svg)
